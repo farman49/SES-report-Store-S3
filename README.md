@@ -82,8 +82,13 @@ Then go to SQS Console > Select the Queue > Purge Queue (This is a required step
 Go to CloudWatch console
 Click on Events > Rules > Create Rule
 Select Schedule > Fixed rate > 1 Day
-On Target, select the lambda-function > Configure Details
+On Target, select the lambda-function > Configure
 Give a name > Create Rule
+
+![Screenshot from 2022-12-16 18-22-25](https://user-images.githubusercontent.com/107399089/208184007-4b42ad2d-4f81-42b4-ad6c-c4dda3d211dd.png)
+ Details
+
+![Screenshot from 2022-12-16 18-26-33](https://user-images.githubusercontent.com/107399089/208183849-c15422e8-8d57-4615-bc66-e7f47b5af9da.png)
 
 
 
